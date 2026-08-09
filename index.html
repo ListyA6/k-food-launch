@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>K-Food Launch — War Room</title>
+    <meta name="description" content="War room riset & launch Korean food brand Kediri — ghost kitchen first, delivery only, 30 order/hari.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Loader (squiggle intro — copied from sidestudio) -->
+    <div class="loader" id="loader">
+        <span class="loader-meta loader-meta-tl">(ghost kitchen first · store later)</span>
+        <span class="loader-meta loader-meta-tr">kediri / 2026 — now</span>
+        <svg class="loader-squiggle" viewBox="0 0 1000 600" preserveAspectRatio="none" aria-hidden="true">
+            <path id="loaderSquigglePath"
+                  d="M -60 440 C 120 340, 220 560, 380 420 C 520 300, 660 520, 820 360 C 920 270, 1000 340, 1080 280"
+                  fill="none" stroke="var(--color-accent)" stroke-width="42"
+                  stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <div class="loader-inner">
+            <div class="loader-logo">
+                <span class="loader-char">k</span>
+                <span class="loader-char">-</span>
+                <span class="loader-char">f</span>
+                <span class="loader-char">o</span>
+                <span class="loader-char">o</span>
+                <span class="loader-char accent">d</span>
+            </div>
+            <div class="loader-sub">top of mind, delivery first.</div>
+        </div>
+        <div class="loader-bottom">
+            <span class="loader-counter-label">war room</span>
+            <span class="loader-counter-val">est. 2026 <span style="opacity:0.4">— kediri</span></span>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="header">
+        <div class="header-inner">
+            <a href="#" class="logo">k-food <span class="accent">launch</span></a>
+            <span class="header-status">fase: <b>riset — hari 1</b></span>
+        </div>
+    </header>
+
+    <!-- Hero -->
+    <section class="hero">
+        <svg class="hero-squiggle" viewBox="0 0 1000 600" preserveAspectRatio="none" aria-hidden="true">
+            <path d="M -60 440 C 120 340, 220 560, 380 420 C 520 300, 660 520, 820 360 C 920 270, 1000 340, 1080 280"
+                  fill="none" stroke="var(--color-accent)" stroke-width="42"
+                  stroke-linecap="round" stroke-linejoin="round" opacity="0.25"/>
+        </svg>
+        <div class="container">
+            <span class="eyebrow">war room — korean food brand, kediri</span>
+            <h1>Top of mind di Kediri,<br>lewat delivery dulu.</h1>
+            <p class="lead">Kita launch sebagai <strong>ghost kitchen</strong> — tanpa toko fisik. Brand hidup 100% di sosial media, aplikasi delivery, dan kemasan. Kalau sudah konsisten <strong>lebih dari 30 order per hari</strong>, baru kita bicara toko fisik — sebagai ekspansi konsep yang sudah terbukti.</p>
+            <div class="hero-badges">
+                <span class="badge hot">target: 30+ order/hari</span>
+                <span class="badge">ghost kitchen</span>
+                <span class="badge">delivery only</span>
+                <span class="badge">sosmed = etalase</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- Product Philosophy -->
+    <section id="filosofi">
+        <div class="container">
+            <span class="eyebrow">filosofi produk</span>
+            <h2>"Tetap Korea, tapi cocok di lidah kita."</h2>
+            <div class="card-grid">
+                <div class="card yellow">
+                    <h3><span class="num squiggle-mark">01</span> Masalahnya</h3>
+                    <p>Makanan Korea asli sebagian besar <strong>tidak cocok dengan lidah kita</strong> — terutama hasil <strong>fermentasi</strong>: kimchi asli yang asam dan fermentasi kuat, doenjang, dan kawan-kawannya.</p>
+                </div>
+                <div class="card yellow">
+                    <h3><span class="num squiggle-mark">02</span> Solusinya</h3>
+                    <p>Rasa kita adjust: lebih berani di <strong>gurih, manis, pedas</strong>. Fermentasi diperhalus supaya tidak terasa asing di lidah lokal.</p>
+                </div>
+                <div class="card yellow">
+                    <h3><span class="num squiggle-mark">03</span> Tapi —</h3>
+                    <p><strong>Kimchi &amp; lobak kuning tetap wajib ada.</strong> Itu wajahnya makanan Korea. Tanpa itu, orang tidak merasa makan Korean food. Versi kita: lebih segar, asam ringan.</p>
+                </div>
+            </div>
+            <p style="margin-top:1.5rem">Prinsipnya: orang harus bisa bilang <strong>"ini Korean food"</strong> (dari tampilan, nama, kimchi, kemasan) — tapi pas dimakan bilang <strong>"ini enak"</strong>. Semua riset di bawah harus memvalidasi arah ini dengan data lapangan.</p>
+        </div>
+    </section>
+
+    <!-- Progress -->
+    <section id="progress">
+        <div class="container">
+            <span class="eyebrow">kita di mana sekarang</span>
+            <h2>Progress riset</h2>
+
+            <div class="progress-overall">
+                <div class="progress-label"><span><b>Total fase riset</b></span><span class="pct" id="overallPct">0%</span></div>
+                <div class="progress-track"><div class="progress-fill blue" id="overallBar"></div></div>
+            </div>
+
+            <div class="progress-row">
+                <div class="progress-label"><span>Task 2 — Riset pasar lokal (Kediri)</span><span class="pct">0%</span></div>
+                <div class="progress-track"><div class="progress-fill" style="width:0%"></div></div>
+            </div>
+            <div class="progress-row">
+                <div class="progress-label"><span>Task 3 — Riset tren K-food nasional</span><span class="pct">0%</span></div>
+                <div class="progress-track"><div class="progress-fill" style="width:0%"></div></div>
+            </div>
+            <div class="progress-row">
+                <div class="progress-label"><span>Task 4 — Survei target audiens</span><span class="pct">0%</span></div>
+                <div class="progress-track"><div class="progress-fill" style="width:0%"></div></div>
+            </div>
+            <div class="progress-row">
+                <div class="progress-label"><span>Task 5 — Identifikasi key poppers</span><span class="pct">0%</span></div>
+                <div class="progress-track"><div class="progress-fill" style="width:0%"></div></div>
+            </div>
+
+            <p class="progress-note">~ bar di-update tiap hari dari laporan WhatsApp intern.</p>
+        </div>
+    </section>
+
+    <!-- Tasks -->
+    <section id="tugas">
+        <div class="container">
+            <span class="eyebrow">tugas intern — fase 1</span>
+            <h2>Task list &amp; hasil yang diharapkan</h2>
+
+            <div class="task">
+                <div class="task-head"><h3><span class="squiggle-mark">Task 2</span> — Riset Pasar Lokal (Kediri)</h3></div>
+                <p class="task-goal">Tujuan: pahami kompetitor yang sudah ada, temukan celah visual &amp; rasa yang belum mereka isi.</p>
+                <table>
+                    <tr><th>No</th><th>Sub-task</th><th>Hasil yang diharapkan</th></tr>
+                    <tr><td>2.1</td><td>Daftar SEMUA resto/cafe/toko yang jual makanan Korea di Kediri (Google Maps, GoFood, GrabFood, ShopeeFood, IG, TikTok). Kalau resto khusus Korea &lt; 10, tambahkan yang punya menu Korea (cafe, rice bowl, angkringan modern).</td><td>Daftar minimal 10 kompetitor</td></tr>
+                    <tr><td>2.2</td><td>Tiap kompetitor catat: platform delivery aktif, range harga, menu best seller (label "terlaris" / jumlah terjual), rating + jumlah review.</td><td>Catatan per kompetitor</td></tr>
+                    <tr><td>2.3</td><td>Screenshot identitas visual tiap kompetitor: logo, banner aplikasi, foto menu, feed IG, kemasan (dari foto review pelanggan).</td><td>Folder screenshot per kompetitor</td></tr>
+                    <tr><td>2.4</td><td>Catat positioning tiap kompetitor: autentik? murah? cafe aesthetic? street food?</td><td>1 kalimat positioning per kompetitor</td></tr>
+                    <tr><td>2.5</td><td>Baca 20–30 review per 3 kompetitor terbesar. Catat yang dipuji &amp; dikeluhkan — terutama keluhan rasa asing / kimchi / terlalu asam. Ini validasi filosofi produk kita.</td><td>Daftar pujian &amp; keluhan berulang</td></tr>
+                    <tr><td>2.6</td><td>Kesimpulan: celah visual &amp; celah rasa/harga yang terbuka di Kediri.</td><td>5–10 poin kesimpulan</td></tr>
+                </table>
+            </div>
+
+            <div class="task">
+                <div class="task-head"><h3><span class="squiggle-mark">Task 3</span> — Riset Tren K-Food Nasional</h3></div>
+                <p class="task-goal">Tujuan: tahu menu apa yang viral dan visual seperti apa yang menarik perhatian — karena kita jualan lewat layar HP.</p>
+                <table>
+                    <tr><th>No</th><th>Sub-task</th><th>Hasil yang diharapkan</th></tr>
+                    <tr><td>3.1</td><td>Cari 10–15 menu K-food yang sedang viral (TikTok, Reels, YouTube). Catat menunya + KENAPA viral.</td><td>Daftar tren + alasan viral</td></tr>
+                    <tr><td>3.2</td><td>Tiap tren, screenshot visualnya: warna dominan, plating, kemasan, gaya foto/video.</td><td>Folder screenshot terkurasi</td></tr>
+                    <tr><td>3.3</td><td>Catat format video dengan views tertinggi: ASMR masak? cheese pull? mukbang? unboxing paket delivery?</td><td>Daftar format + contoh link</td></tr>
+                    <tr><td>3.4</td><td>Riset 5 brand K-food delivery/ghost kitchen besar secara nasional (cari di GoFood Jabodetabek): penamaan menu, paket bundling, tampilan di aplikasi.</td><td>Catatan per brand</td></tr>
+                    <tr><td>3.5</td><td>Kesimpulan: 5 referensi visual paling cocok untuk brand kita.</td><td>5 referensi + alasan</td></tr>
+                </table>
+            </div>
+
+            <div class="task">
+                <div class="task-head"><h3><span class="squiggle-mark">Task 4</span> — Survei Target Audiens</h3></div>
+                <p class="task-goal">Tujuan: data langsung dari calon pembeli — minat, ekspektasi rasa, visual yang disukai.</p>
+                <table>
+                    <tr><th>No</th><th>Sub-task</th><th>Hasil yang diharapkan</th></tr>
+                    <tr><td>4.1</td><td>Buat kuesioner Google Form. Wajib ada pertanyaan visual (tampilkan gambar, minta pilih yang paling menarik).</td><td>Link form siap sebar</td></tr>
+                    <tr><td>4.2</td><td>Pertanyaan wajib: (a) "Pernah coba makanan Korea? Kalau kurang suka, kenapa?" (b) soal kimchi/rasa fermentasi (suka asam fermentasi atau tidak?) (c) "Harga wajar per porsi?" (d) "Biasa pesan makanan lewat aplikasi apa?"</td><td>—</td></tr>
+                    <tr><td>4.3</td><td>Sebar ke minimal 50 responden — teman, grup WA kampus/sekolah, komunitas K-pop Kediri.</td><td>50+ jawaban masuk</td></tr>
+                    <tr><td>4.4</td><td>Rekap temuan utama — poin-poin, bukan tabel rapi ("70% tidak suka kimchi terlalu asam", dst).</td><td>10+ poin temuan</td></tr>
+                </table>
+            </div>
+
+            <div class="task">
+                <div class="task-head"><h3><span class="squiggle-mark">Task 5</span> — Identifikasi Key Poppers</h3></div>
+                <p class="task-goal">Tujuan: tentukan siapa pembeli paling berpotensi — supaya konten &amp; iklan fokus, tidak nembak ke semua orang.</p>
+                <table>
+                    <tr><th>No</th><th>Sub-task</th><th>Hasil yang diharapkan</th></tr>
+                    <tr><td>5.1</td><td>Dari hasil survei + observasi sosmed, petakan segmen: pelajar, mahasiswa, pekerja, keluarga, K-pop fans.</td><td>Peta segmen</td></tr>
+                    <tr><td>5.2</td><td>Tiap segmen catat: umur, platform favorit, jam pesan makanan, harga yang masuk akal, gaya visual yang disukai.</td><td>Profil per segmen</td></tr>
+                    <tr><td>5.3</td><td>Pilih 1–2 segmen utama yang paling mungkin jadi pembeli pertama. Jelaskan kenapa.</td><td>Rekomendasi target utama</td></tr>
+                    <tr><td>5.4</td><td>Cari 10 akun/grup/komunitas lokal tempat segmen ini berkumpul (grup K-pop Kediri, akun info kampus, komunitas WA/Telegram).</td><td>Daftar 10 akun/grup</td></tr>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <!-- Research questions -->
+    <section id="pertanyaan">
+        <div class="container">
+            <span class="eyebrow">definisi sukses riset ini</span>
+            <h2>Pertanyaan yang harus terjawab</h2>
+            <ul class="qa-list">
+                <li>Siapa kompetitor paling kuat di Kediri, dan kenapa dia kuat?</li>
+                <li>Celah visual apa yang belum ada di Kediri?</li>
+                <li>Menu Korea apa yang paling dikenal dan paling diinginkan orang Kediri?</li>
+                <li>Seberapa besar penolakan terhadap rasa fermentasi? (validasi arah produk)</li>
+                <li>Berapa harga yang dianggap wajar per porsi?</li>
+                <li>Platform delivery mana yang paling sering dipakai target kita?</li>
+                <li>Segmen mana yang paling gampang jadi 30 order pertama kita?</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Guide -->
+    <section id="panduan">
+        <div class="container">
+            <span class="eyebrow">cara kerja</span>
+            <h2>Panduan pengumpulan data &amp; laporan</h2>
+            <div class="card-grid">
+                <div class="card">
+                    <h3>Kumpul data</h3>
+                    <ul class="guide-list">
+                        <li>Sumber utama: Google Maps + aplikasi delivery langsung dari HP, Instagram, TikTok.</li>
+                        <li><strong>Screenshot semuanya.</strong> Data tanpa bukti visual = kurang berguna.</li>
+                        <li>Kumpulkan di Google Drive, folder per task.</li>
+                        <li>Catat di mana saja boleh — Notes HP, Docs, chat WA. Tidak perlu Excel rapi.</li>
+                    </ul>
+                </div>
+                <div class="card">
+                    <h3>Lapor</h3>
+                    <ul class="guide-list">
+                        <li><strong>Lapor harian lewat WhatsApp</strong> — foto/screenshot + catatan singkat temuan hari itu.</li>
+                        <li>Tidak perlu format formal. Yang penting datanya, bukan cara lapornya.</li>
+                        <li><strong>Stuck rule:</strong> buntu &gt; 20 menit atau 2 cara sudah dicoba — langsung tanya, jangan diam sampai deadline.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Daily log -->
+    <section id="log">
+        <div class="container">
+            <span class="eyebrow">hasil kerja harian</span>
+            <h2>Daily log</h2>
+            <div class="log-entry">
+                <div class="log-date">2026-08-10 — Hari 1</div>
+                <p class="log-empty">Belum ada laporan masuk. Menunggu laporan WhatsApp pertama.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <span class="squiggle-mark">〜</span>
+        k-food launch war room · kediri · ghost kitchen first
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
