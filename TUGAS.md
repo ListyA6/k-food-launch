@@ -43,6 +43,8 @@ Riset kalian harus membuktikan atau membantah asumsi ini dengan data lapangan.
 
 ## Task 3 — Riset Tren K-Food Nasional
 
+> **STATUS: SKIP (2026-08-10)** — jawaban sudah dikantongi langsung oleh Listy. Sub-task di bawah disimpan sebagai referensi saja, tidak perlu dikerjakan.
+
 **Tujuan:** tahu menu apa yang viral dan visual seperti apa yang menarik perhatian — karena kita jualan lewat layar HP.
 
 **Konteks dari hasil hari 1 (pakai ini sebagai filter):** arah brand kita = Korean casual halal, mid-market Rp20–45k, menu sempit 8–12 item, menang lewat kecepatan + konsistensi. Jadi riset tren ini BUKAN sekadar "apa yang viral" — tapi **apa yang viral DAN cocok dengan arah itu.**
