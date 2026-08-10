@@ -1,18 +1,18 @@
-# Tugas Intern — Korean Food Brand (Riset Fase 1)
+# Tugas Riset — Korean Food Brand (Fase 1)
 
 **Tanggal mulai:** 2026-08-10
-**Dikerjakan oleh:** Intern
+**Target pengerjaan:** 2 hari
 **Direview oleh:** Listy
 
 ---
 
 ## Konteks: Kenapa Riset Ini Penting
 
-**Strategi kita: jadi top-of-mind makanan Korea di Kediri lewat delivery dulu.**
+**Kita sedang menyiapkan brand makanan Korea baru untuk Kediri.**
 
-1. Kita launch sebagai **ghost kitchen** — tidak ada toko fisik. Semua penjualan lewat delivery (GoFood, GrabFood, ShopeeFood, WhatsApp order).
-2. Karena tidak ada toko, **brand kita hidup 100% di sosial media, aplikasi delivery, dan kemasan.** Orang "makan" brand kita pertama kali lewat mata — makanya riset visual sama pentingnya dengan riset rasa.
-3. Target: **kalau sudah konsisten lebih dari 30 order per hari**, baru kita bicara buka toko fisik — itupun sebagai *ekspansi konsep* yang sudah terbukti, bukan mulai dari nol.
+Sebelum ada nama, logo, atau menu — kita butuh data lapangan dulu. Riset ini adalah fondasi semua keputusan berikutnya: menu apa yang dijual, harga berapa, tampil seperti apa, dan jual ke siapa. Karena itu kumpulkan data sejujur-jujurnya — temuan yang "membantah" ide kita sama berharganya dengan yang mendukung.
+
+**Pembagian 2 hari (fleksibel):** Hari 1 → Task 2 & 3 (riset kompetitor lokal + tren nasional). Hari 2 → Task 4 & 5 (survei + segmen). Kalau hari 1 belum selesai, lanjutkan — yang penting semua task selesai dalam 2 hari.
 
 ## Filosofi Produk: "Tetap Korea, Tapi Cocok di Lidah Kita"
 
@@ -48,9 +48,9 @@ Riset kalian harus membuktikan atau membantah asumsi ini dengan data lapangan.
 ### Sub-task
 | No | Sub-task | Yang Diharapkan |
 |----|----------|-----------------|
-| 3.1 | Cari 10–15 menu K-food yang sedang viral (TikTok, IG Reels, YouTube — keyword "korean food", "makanan korea"). Catat menunya dan KENAPA viral. | Daftar tren + alasan viral |
+| 3.1 | Cari 10–15 menu K-food yang sedang viral (TikTok, IG Reels, YouTube — keyword "korean food", "makanan korea"). Catat menunya dan KENAPA viral. **Video tidak perlu didownload — kumpulkan link-nya saja (Instagram/TikTok).** | Daftar tren + alasan viral + link |
 | 3.2 | Untuk tiap tren, screenshot visualnya: warna dominan, plating, kemasan, gaya foto/video. | Folder screenshot terkurasi |
-| 3.3 | Catat format video yang views-nya paling tinggi: ASMR masak? Cheese pull? Mukbang? Unboxing paket delivery? | Daftar format + contoh link |
+| 3.3 | Catat format video yang views-nya paling tinggi: ASMR masak? Cheese pull? Mukbang? Unboxing paket delivery? Cukup kumpulkan link videonya, tidak perlu download. | Daftar format + link contoh |
 | 3.4 | Riset 5 brand K-food delivery/ghost kitchen yang besar secara nasional (cari di GoFood area Jabodetabek). Lihat bagaimana mereka menamai menu, membuat paket bundling, dan tampil di aplikasi. | Catatan per brand |
 | 3.5 | Kesimpulan: pilih 5 referensi visual yang paling cocok untuk brand kita. | 5 referensi + alasan |
 
@@ -61,9 +61,9 @@ Riset kalian harus membuktikan atau membantah asumsi ini dengan data lapangan.
 ### Sub-task
 | No | Sub-task | Yang Diharapkan |
 |----|----------|-----------------|
-| 4.1 | Buat kuesioner Google Form. Wajib pakai pertanyaan visual (tampilkan gambar, minta pilih yang paling menarik). | Link form siap sebar |
-| 4.2 | Pertanyaan WAJIB yang harus ada: (a) "Pernah coba makanan Korea? Kalau kurang suka, kenapa?" (b) pertanyaan spesifik soal kimchi/rasa fermentasi (suka asam fermentasi atau tidak?) (c) "Berapa harga wajar per porsi menurutmu?" (d) "Biasanya pesan makanan lewat aplikasi apa?" | — |
-| 4.3 | Sebar ke minimal **50 responden** — teman, grup WA kampus/sekolah, komunitas K-pop Kediri, followers sosmed. | 50+ jawaban masuk |
+| 4.1 | Siapkan daftar pertanyaan survei. **Tidak harus pakai Google Form** — boleh form, boleh tanya langsung lewat chat WA/DM, boleh wawancara santai. Yang penting pertanyaannya terjawab dan jawabannya tercatat. Kalau sempat pakai pertanyaan visual (tampilkan gambar, minta pilih yang paling menarik) lebih bagus. | Daftar pertanyaan siap pakai |
+| 4.2 | Pertanyaan WAJIB yang harus ada: (a) "Pernah coba makanan Korea? Kalau kurang suka, kenapa?" (b) soal rasa asam/fermentasi — **jangan tanya langsung "suka kimchi tidak?"** karena kebanyakan orang di sini belum pernah makan Korean food beneran, jawabannya tidak akurat. Tanya lewat makanan yang mereka kenal: "suka asinan / tape / yakult / makanan asam fermentasi tidak?" (c) "Berapa harga wajar per porsi menurutmu?" — tanyakan juga ke **segmen menengah ke atas** (pekerja, anak kantoran), jangan cuma pelajar (d) "Biasanya pesan makanan lewat aplikasi apa?" | — |
+| 4.3 | Kumpulkan jawaban dari **kurang lebih 25 responden** — tidak harus pas 25, mendekati cukup. Teman, grup WA kampus/sekolah, komunitas K-pop Kediri, followers sosmed. | ±25 jawaban masuk |
 | 4.4 | Rekap temuan utama. Bukan tabel rapi — cukup poin-poin temuan ("70% tidak suka kimchi terlalu asam", dst). | 10+ poin temuan |
 
 ## Task 5 — Identifikasi Key Poppers (Segmen Utama)
@@ -87,10 +87,10 @@ Kalau di akhir riset ini kita bisa jawab semua ini, risetnya sukses:
 1. Siapa kompetitor paling kuat di Kediri, dan kenapa dia kuat?
 2. Celah visual apa yang belum ada di Kediri?
 3. Menu Korea apa yang paling dikenal dan paling diinginkan orang Kediri?
-4. Seberapa besar penolakan terhadap rasa fermentasi? (validasi arah produk kita)
-5. Berapa harga yang dianggap wajar per porsi?
+4. Seberapa besar penolakan terhadap rasa asam/fermentasi? (validasi arah produk kita — **catatan:** orang sini belum pernah makan Korean food beneran, jadi jangan tanya soal kimchi langsung; ukur lewat makanan familiar: asinan, tape, yakult, dll)
+5. Berapa harga yang dianggap wajar per porsi — untuk pelajar **dan** untuk segmen menengah ke atas (pekerja/anak kantoran)?
 6. Platform delivery mana yang paling sering dipakai target kita?
-7. Segmen mana yang paling gampang jadi 30 order pertama kita?
+7. Segmen mana yang paling gampang jadi pembeli pertama kita?
 
 ## Cara Mengumpulkan Data
 
