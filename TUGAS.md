@@ -43,7 +43,9 @@ Riset kalian harus membuktikan atau membantah asumsi ini dengan data lapangan.
 
 ## Task 3 — Riset Tren K-Food Nasional
 
-**Tujuan:** tahu menu apa yang sedang viral dan seperti apa visual yang menarik perhatian — karena kita jualan lewat layar HP.
+**Tujuan:** tahu menu apa yang viral dan visual seperti apa yang menarik perhatian — karena kita jualan lewat layar HP.
+
+**Konteks dari hasil hari 1 (pakai ini sebagai filter):** arah brand kita = Korean casual halal, mid-market Rp20–45k, menu sempit 8–12 item, menang lewat kecepatan + konsistensi. Jadi riset tren ini BUKAN sekadar "apa yang viral" — tapi **apa yang viral DAN cocok dengan arah itu.**
 
 ### Sub-task
 | No | Sub-task | Yang Diharapkan |
@@ -53,6 +55,21 @@ Riset kalian harus membuktikan atau membantah asumsi ini dengan data lapangan.
 | 3.3 | Catat format video yang views-nya paling tinggi: ASMR masak? Cheese pull? Mukbang? Unboxing paket delivery? Cukup kumpulkan link videonya, tidak perlu download. | Daftar format + link contoh |
 | 3.4 | Riset 5 brand K-food delivery/ghost kitchen yang besar secara nasional (cari di GoFood area Jabodetabek). Lihat bagaimana mereka menamai menu, membuat paket bundling, dan tampil di aplikasi. | Catatan per brand |
 | 3.5 | Kesimpulan: pilih 5 referensi visual yang paling cocok untuk brand kita. | 5 referensi + alasan |
+
+### Pertanyaan yang harus terjawab (ini inti tugasnya)
+
+Jawab pakai data dari sub-task di atas. Tiap jawaban cukup 2–4 kalimat + bukti (link/screenshot):
+
+1. **Menu viral mana yang tahan perjalanan delivery 30–45 menit?** (Korean fried chicken soggy atau tidak? tteokbokki masih enak kalau tidak panas?) Kita delivery-first — menu yang cuma enak dimakan di tempat = tidak masuk.
+2. **Menu viral mana yang bahan & rasanya bisa di-halal-kan dan di-adjust ke lidah lokal** tanpa kehilangan "rasa Korea"-nya? Tandai yang pakai pork/alkohol/mirin dan apa substitusinya.
+3. **Menu mana yang masuk kantong Rp20–45k per porsi** dengan food cost yang masuk akal? (Coret yang bahan bakunya mahal/sulit dicari di Kediri.)
+4. **Dari 10–15 tren itu, kalau harus pilih 8–12 menu final, mana yang kamu pilih dan kenapa?** Ini latihan menyusun menu sempit — harus ada: 1–2 rice/bento, 1–2 mie, 1 snack/street food, 1 ayam, kimchi + danmuji sebagai pendamping wajib.
+5. **Kemasan seperti apa yang dipakai brand nasional supaya makanan tetap hangat & tidak berantakan?** Screenshot kemasan mereka (dari foto review/unboxing). Cari yang ada ventilasi/partisi saus.
+6. **Bagaimana brand nasional menamai menu?** (Nama Korea asli? Nama Indonesia? Campuran?) Mana yang menurutmu paling gampang dipesan orang Kediri?
+7. **Paket bundling seperti apa yang paling laku?** (paket berdua? paket + minum? porsi keluarga?) Catat harganya.
+8. **Format video apa yang bisa kita produksi sendiri dengan HP + dapur biasa?** Coret format yang butuh properti mahal. Kita butuh format yang bisa konsisten diproduksi tiap hari.
+9. **Dari semua yang kamu lihat — apa yang BELUM ada di Kediri tapi sudah terbukti laku secara nasional?** Ini celah kita.
+10. **Ada tren yang menurutmu cuma hype sesaat?** Tandai — kita tidak mau bangun menu di atas tren yang mati dalam 3 bulan.
 
 ## Task 4 — Survei Target Audiens
 
